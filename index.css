@@ -1,0 +1,40 @@
+body {
+  background-color: lightpink;
+  padding: 80px 0 80px 0;
+}
+
+img {
+  border-radius: 15px;
+}
+
+div {
+  background-color: #fff;
+  width: 40%;
+  margin: 0 auto;
+  padding: 30px 30px;
+  border-radius: 20px;
+}
+
+#prep {
+  margin: 0;
+  background-color: linen;
+  width: 87%;
+  line-height: 25px;
+}
+#prep2,
+#prep3,
+#prep4 {
+  margin: 0;
+  width: 87%;
+  line-height: 25px;
+}
+.instructions {
+  margin: 0;
+  width: 87%;
+}
+h2 {
+  color: brown;
+}
+h3 {
+  color: hotpink;
+}
