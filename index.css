@@ -5,6 +5,7 @@ body {
 
 img {
   border-radius: 15px;
+  max-width: 97%;
 }
 
 div {
